@@ -1,0 +1,79 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+    margin: 3px;
+    
+
+
+}
+
+/** Header **/ 
+#header-nav {
+    background-color: rgb(30, 51, 97);
+    border-radius: 0;
+    border: 0;
+
+}
+
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    font-family: 'Lora', serif;
+    color: rgba(0, 0, 0, 0.808);
+    font-size:1.5em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom:0;
+    line-height:.75;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+  
+
+#theMenu {
+  background-color: rgb(8, 23, 37);
+  align-self: center;
+  
+
+  
+}
+
+#dishNames {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 1.2 em;
+
+}
+
+#text {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#smallMenu{
+  background-color: rgb(8, 23, 37) ;
+  width:100%;
+  border-bottom: 5px;
+  border-bottom: solid white;
+}
+  
+  
